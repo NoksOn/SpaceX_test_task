@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SpaceX_test_task</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="google_maps_key">AIzaSyDk3u1PFSd43cbuGaapmf_yM2Pa0-ka5bU</string>
+
+</resources>
